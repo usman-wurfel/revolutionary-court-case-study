@@ -16,6 +16,25 @@ Celebrity / public-figure **community platform** — ratings, reviews, communiti
 
 ---
 
+## My responsibilities
+
+I owned **everything except the mobile app** on this product:
+
+- Backend / API development (Laravel)
+- Admin panel & CMS
+- Web frontend
+- Realtime chat server (Node / Socket.IO)
+- Integrations (auth, media/storage, push-related backend, monitoring)
+- Deployment, server setup, and ongoing release / ops work
+
+The **mobile app** was handled separately (not my build). I still integrated and supported it via the shared API and chat services.
+
+### Want proof?
+
+Source is private (client NDA). If you want to verify the work, **book a short meeting** — I can walk through the private codebase live (architecture, key modules, deploys) on a screen share.
+
+---
+
 ## Why this is useful
 
 Celebrity fandom is scattered across general social apps — hard to find the right community, rate a public figure fairly, or keep chat on-topic. Revolutionary Court is a **focused community layer** around personalities: discover profiles, join communities, leave ratings/reviews, and chat with other fans.
@@ -164,3 +183,4 @@ GitHub Actions (main) ──► rsync / composer / migrate / PM2 per surface
 
 - Case study only — no application source or secrets in this repo.
 - Internal admin / chat hostnames intentionally omitted from public links.
+- Happy to demo private code on a call if you need proof of ownership / depth.
