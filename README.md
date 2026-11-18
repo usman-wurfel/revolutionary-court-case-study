@@ -8,7 +8,10 @@ Celebrity / public-figure **community platform** — ratings, reviews, communiti
 
 ## Public links
 
+### Web
 - Website: [revolutionarycourt.org](https://revolutionarycourt.org)
+
+### Mobile app
 - Android: [Google Play — Revolutionary Court](https://play.google.com/store/apps/details?id=com.revolutionarycourt.app)
 
 ---
