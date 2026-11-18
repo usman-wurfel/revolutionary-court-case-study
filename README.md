@@ -15,7 +15,9 @@ Celebrity / public-figure **community platform** — ratings, reviews, communiti
 
 ## Why this is useful
 
-Fans need a focused place to discover personalities, join communities, rate/review, and chat — without general-social-network noise. Ops need tools to curate profiles and moderate reported content at community scope.
+Celebrity fandom is scattered across general social apps — hard to find the right community, rate a public figure fairly, or keep chat on-topic. Revolutionary Court is a **focused community layer** around personalities: discover profiles, join communities, leave ratings/reviews, and chat with other fans.
+
+Ops get a Laravel admin to curate the celebrity catalog and moderate reports with **community-scoped** chat / comment / review blocks — so one bad thread does not take down the whole platform.
 
 ---
 
