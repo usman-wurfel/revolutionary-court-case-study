@@ -64,34 +64,46 @@ Framed Play Store captures — discovery, communities, join/leave, and chat entr
   <img src="docs/screenshots/app/montage-mobile.png" alt="Revolutionary Court mobile app screens" width="720" />
 </p>
 
-<details>
-<summary>Individual mobile screens</summary>
-<p>
-<img src="docs/screenshots/app/01-app.png" alt="Sign in" width="180" />
-<img src="docs/screenshots/app/02-app.png" alt="Home discovery" width="180" />
-<img src="docs/screenshots/app/03-app.png" alt="Communities" width="180" />
-<img src="docs/screenshots/app/04-app.png" alt="Profile / feed" width="180" />
-<img src="docs/screenshots/app/05-app.png" alt="Chat / activity" width="180" />
-<img src="docs/screenshots/app/06-app.png" alt="Settings / more" width="180" />
+<p align="center">
+<img src="docs/screenshots/app/01-app.png" alt="Sign in" width="160" />
+<img src="docs/screenshots/app/02-app.png" alt="Home discovery" width="160" />
+<img src="docs/screenshots/app/03-app.png" alt="Communities" width="160" />
+<img src="docs/screenshots/app/04-app.png" alt="Profile / feed" width="160" />
+<img src="docs/screenshots/app/05-app.png" alt="Chat / activity" width="160" />
+<img src="docs/screenshots/app/06-app.png" alt="Settings / more" width="160" />
 </p>
-</details>
 
 ### Website
 
-Home hero + celebrity profile + most-followed spotlight.
+Home hero, about, celebrity profile, FAQ, contact, and most-followed spotlight.
 
 <p align="center">
-  <img src="docs/screenshots/web/montage-web.png" alt="Revolutionary Court website" width="100%" />
+  <img src="docs/screenshots/web/montage-web.png" alt="Revolutionary Court website overview" width="100%" />
 </p>
 
-<details>
-<summary>More website pages</summary>
+**Home**
 
-| Home | About | FAQ | Contact |
-|------|-------|-----|---------|
-| ![Home](docs/screenshots/web/01-home.png) | ![About](docs/screenshots/web/02-about.png) | ![FAQ](docs/screenshots/web/04-faq.png) | ![Contact](docs/screenshots/web/05-contact.png) |
+![Home](docs/screenshots/web/01-home.png)
 
-</details>
+**About**
+
+![About](docs/screenshots/web/02-about.png)
+
+**Celebrity profile**
+
+![Celebrity profile](docs/screenshots/web/03-celebrity-profile.png)
+
+**FAQ**
+
+![FAQ](docs/screenshots/web/04-faq.png)
+
+**Contact**
+
+![Contact](docs/screenshots/web/05-contact.png)
+
+**Most followed**
+
+![Most followed](docs/screenshots/web/06-most-followed.png)
 
 ### Admin panel
 
@@ -100,6 +112,18 @@ Dashboard metrics, celebrity CMS, and community-scoped content reports / moderat
 <p align="center">
   <img src="docs/screenshots/admin/montage-admin.png" alt="Revolutionary Court admin panel" width="640" />
 </p>
+
+**Dashboard**
+
+![Dashboard](docs/screenshots/admin/01-dashboard.png)
+
+**Celebrities CMS**
+
+![Celebrities](docs/screenshots/admin/02-celebrities.png)
+
+**Content reports**
+
+![Content reports](docs/screenshots/admin/03-content-reports.png)
 
 ---
 
